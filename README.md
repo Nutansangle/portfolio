@@ -21,7 +21,10 @@ https://nutansangle.github.io/portfolio/
 
 ## Projects Included
 - Online Food Ordering Website  
-- Personal Portfolio Website  
+- Personal Portfolio Website
+- nCoder Educational Website
+- Gourment Website
+- To Do list
 - Tic-Tac-Toe Game  
 - Weather Application  
 
